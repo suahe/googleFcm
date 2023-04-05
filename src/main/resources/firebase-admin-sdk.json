@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "game-speedup-d5843",
+  "private_key_id": "2b4f6a25724aec24ec520c4e4ecc733971b40780",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqeNzTE39EoTXX\nQXdT41k8nsSNLKN8wWn4OougypmnYPCyLRVvbrLWrf2DDjVCEQUc9SbuF8RZ+UWM\n6x1d6UQBhfbCNoFkJtvSuAw8L+CDN7tgykrwgJpxYew7CZjHW0seuJev4GFb2jAi\nzY/mVYyspQiuqgPdsYRVzSZVt6V5WT5Wkdo+gPNgWSbSHjbQWQZ/McIjIf525WGm\n4IxfcutdrIfaiH9sGpG2c2H0QYGJXOM0VWjXC6RPjduWjyVyQypl5Z7WH8xzdkO5\ngtXKUhRa5tz7R1iGV3ykbtyz/w0muC0id8tjT1HOw7vMDEatcAY78hG3daxLqq0h\nc2eQJEd3AgMBAAECggEAAnYl/zE0CauMxw3fXYsm3GZ8zs+TdgaLrMFIStv5pANl\n6N9Aurhy5ymeGxRzwa6RBc7c1DO2meX9pq9Co2adMTGzsZxUFOtlq7cn/n4RpR2D\nN1mFRt1veGrPqgFOu6gXtWGkjWQcCoTCIPfJAdS/4V13bV1ieOf5m/HgFbnTcnzj\nrcwnaa09UFUBHMcZmvsp8vcqDUvinkvTCt2mfWMpxkavgNNIXIqaeC7zBbgz5ZFY\nkQlyw0lQiK8XfwKu5CzQoPqP5GkitK5698mN1pGiGy6ywkGJC1ozz6FeKQK04jZx\nRm/SqqJrZOqhw6rkqHi0p1ClSWpAGIs4cQjN2JwwYQKBgQDcfULNY+ypGLNWY/el\nBs1qtLjY2oujmCoex5qBCxJyIGc1yhjmJD/T5UBJJI6TIZVuulRi/1gY7UCTokzD\n8/IjIuCCMxdJ4bxmtuUIafjZpL53sm/8wyN4MzHNA4TS2d+uyRsaliFfvyrEdB/p\nHk+NMaEux6xhvbrmJoABc8RiHQKBgQDF7WazHVJT722cPFEmx9tCxKWSP/nfmt37\nS8A9FNOhOqPzB4nCrPCYC1zUdWleELRs06vR0T6rl0E3J3B0BukLRplZvVoTpbyx\nHPU9Xjalye4tjhKM18u8h01DjkyqiDOHHBG6VMYHUBa7Uf5GNa9KDJWULxJLOOvP\nDjSR+ufbowKBgA/ffKWooeryekan37YjrToXVI9X/GGEnNOmbvsHPwa0SnnW2MAI\nsAejI2OgnBr/efCEvXp7A26X9eQq9PfOYgohgqQc5XpOI/AJDqfyaRXSBFw9nk5G\nBhGrLdSigjdjs/SzSZ46XKC19HA8I+f2ZKe3gPELMt++duwGrYRtPyAJAoGBAKUU\ntbSsvw7cwrotoK3MwXa11zbc/0bdv0mqS6NmbICsDTRVVDQ308+sonddmk1nd2TR\nQxyT/kZVuIIM9gEABn1uG9c6VBfRA0lh0rWlj8TFYE9EkPpBvl73Jp0y4YTWZsvI\nwIx9ylEtHliMMZ1Th2kmh9d5TzPIPP2MZpJfB+UrAoGAKEMOMbBAwFMC2F4yx9ZY\nHDxfT4a9EVcuPn8T+0kIu3TR0e5thBQjoN/ruCHC7U1QPNq4C2PERyUPS5fpy1d6\nDunYzk9ML3iIzmwDNDUO3tjjLDVL262fzsXqk45ZW40k+OvWm1RN5n7oqU0sWyhk\nhkaEHik4QINE8bRnj2fpwHg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-plg5z@game-speedup-d5843.iam.gserviceaccount.com",
+  "client_id": "118129721385276426467",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-plg5z%40game-speedup-d5843.iam.gserviceaccount.com"
+}
